@@ -4,7 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/maor\_azoulay" target="_blank">
+  <a href="https://twitter.com/maor_azoulay" target="_blank">
     <img alt="Twitter: maor\_azoulay" src="https://img.shields.io/twitter/follow/maor\_azoulay.svg?style=social" />
   </a>
 </p>
