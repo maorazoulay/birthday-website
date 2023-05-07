@@ -9,9 +9,8 @@
   </a>
 </p>
 
-> Build a website to wish happy birthday to your loved ones.
-
-> Make sure to replace the images (profile pic and GIFs), the info and the wording.
+<p>> Build a website to wish happy birthday to your loved ones.</p>
+<p>> Make sure to replace the images (profile pic and GIFs), the info and the wording.</p>
 
 ### 🏠 [Homepage](https://hana-birthday.netlify.app)
 
